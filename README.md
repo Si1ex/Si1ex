@@ -31,8 +31,6 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   </a>
  </div>
- <div id="stats">
-  <a href="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Si1ex&theme=dark&hide_border=true)](https://git.io/streak-stats)">
-    <img src="[https://komarev.com/ghpvc/?Si1ex&style=flat-square&color=blue](http://github-readme-streak-stats.herokuapp.com?user=Si1ex&theme=dark&hide_border=true)" alt=""/>
-  </a>
- </div>
+ <p align="center">
+    <a href="https://git.io/streak-stats"><img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Si1ex&theme=dark&hide_border=true)](https://git.io/streak-stats)"/></a>
+</p>
