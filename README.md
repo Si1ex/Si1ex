@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📙 I am student at University of Eastern Finland. My major is Computer Science.
-👨‍💻 Some of my projects are available in public repositories of my GitHub profile.
+- 📙 I am student at University of Eastern Finland. My major is Computer Science.
+- 👨‍💻 Some of my projects are available in public repositories of my GitHub profile.
 <div id="linkedin">
   <a href="https://www.linkedin.com/in/danielkurhinen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -24,5 +24,10 @@ Here are some ideas to get you started:
  <div id="views">
   <a href="https://komarev.com/ghpvc/Si1ex">
     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  </a>
+ </div>
+ <div id="stats">
+  <a href="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Si1ex&theme=dark&hide_border=true)](https://git.io/streak-stats)">
+    <img src="[https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue](http://github-readme-streak-stats.herokuapp.com?user=Si1ex&theme=dark&hide_border=true)" alt=""/>
   </a>
  </div>
