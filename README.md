@@ -32,5 +32,5 @@ Here are some ideas to get you started:
   </a>
  </div>
  <p align="center">
-    <a href="https://git.io/streak-stats"><img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Si1ex&theme=dark&hide_border=true)](https://git.io/streak-stats)"/></a>
+    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Si1ex&theme=dark&hide_border=true"/></a>
 </p>
