@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   </a>
  </div>
  <div id="views">
-  <a href="https://komarev.com/ghpvc/?Si1ex">
+  <a href="https://komarev.com/ghpvc/Si1ex">
     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   </a>
  </div>
