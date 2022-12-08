@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📙 I am student at University of Eastern Finland. My major is Computer Science.
+👨‍💻 Some of my projects are available in public repositories of my GitHub profile.
 <div id="linkedin">
   <a href="https://www.linkedin.com/in/danielkurhinen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
