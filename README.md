@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 - 📙 I am student at University of Eastern Finland. My major is Computer Science.
 - 👨‍💻 Some of my projects are available in public repositories of my GitHub profile.
+<div id="uef">
+  <a href="https://www.uef.fi/en">
+    <img src="https://media.studylink.com/provider/university-of-eastern-finland/logo.gif" alt=""/>
+  </a>
+ </div>
 <div id="linkedin">
   <a href="https://www.linkedin.com/in/danielkurhinen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
