@@ -34,3 +34,6 @@ Here are some ideas to get you started:
  <p align="center">
     <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Si1ex&theme=dark&hide_border=true"/></a>
 </p>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Si1ex"/></a>
+</p>
