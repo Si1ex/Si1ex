@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📙 I am student at University of Eastern Finland. My major is Computer Science.
+- 📙 I am a Computer Science student at the University of Eastern Finland.
 - 👨‍💻 Some of my projects are available in public repositories of my GitHub profile.
 <div id="uef">
   <a href="https://www.uef.fi/en">
