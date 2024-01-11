@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Some of my projects are available in public repositories of my GitHub profile.
 <div id="uef">
   <a href="https://www.uef.fi/en">
-    <img src="https://media.studylink.com/provider/university-of-eastern-finland/logo.gif" alt=""/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDp9ENoZSUs-HJ0AouWN5yJmd3NGE9qy76LN27K_-q6Q&s" alt=""/>
   </a>
  </div>
 <div id="linkedin">
