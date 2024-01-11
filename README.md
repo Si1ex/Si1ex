@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 -->
 - 📙 I am a Computer Science student at the University of Eastern Finland.
 - 👨‍💻 Some of my projects are available in public repositories of my GitHub profile.
-<div id="uef">
-  <a href="https://www.uef.fi/en">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDp9ENoZSUs-HJ0AouWN5yJmd3NGE9qy76LN27K_-q6Q&s" alt="" width="100" height="100"/>
-  </a>
- </div>
+
 <div id="linkedin">
   <a href="https://www.linkedin.com/in/danielkurhinen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
