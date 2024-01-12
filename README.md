@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   </a>
  </div>
  <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Si1ex&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Si1ex&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="" /></a>
 </p>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Si1ex&theme=vision-friendly-dark&show_icons=true"/></a>
