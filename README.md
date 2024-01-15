@@ -22,13 +22,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
- <div id="views">
-  <a href="https://komarev.com/ghpvc/Si1ex">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  </a>
- </div>
  <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Si1ex&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="" /></a>
+    <a href="https://streak-stats.demolab.com"><img src="https://streak-stats.demolab.com/?user=Si1ex&theme=dark" alt="" /></a>
 </p>
 <p align="center">
   <a href="github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si1ex&theme=tokyonight" alt="" /></a>
