@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 <div id="linkedin">
   <a href="https://www.linkedin.com/in/danielkurhinen/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
  <div>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Si1ex&style=plastic" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=Si1ex" alt=""/>
   </a>
  </div>
 <p align="center">
