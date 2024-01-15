@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=Si1ex" alt=""/>
   </a>
  </div>
-<p align="center" style="font-size:70%;">
+<p align="center" style="font-size:10%;">
   <a href="github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si1ex&theme=tokyonight" alt="" /></a>
 </p>
 <p align="center">
