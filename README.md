@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  </div>
  <div>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Si1ex" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=Si1ex&style=plastic" alt=""/>
   </a>
  </div>
 <p align="center">
