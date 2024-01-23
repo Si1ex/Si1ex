@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📙 I am a Computer Science student at the University of Eastern Finland.
-- 👨‍💻 Some of my projects are available in public repositories of my GitHub profile.
+- 👨‍💻 I am interested in mostly Web development and Front-End: React, Node.js, MongoDB, TailwindCSS, Express.js
 
 <div id="linkedin">
   <a href="https://www.linkedin.com/in/danielkurhinen/">
