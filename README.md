@@ -15,7 +15,7 @@ Here are some ideas to get you started:
  Fun fact: ...
 -->
 - 📙 I am a Computer Science student at the University of Eastern Finland.
-- 👨‍💻 I am mostly interested in Web development: React, Node.js, JavaScript, TypeScript and TailwindCSS
+- 👨‍💻 I am mostly interested in Web development: React, Node.js, Next.js, JavaScript, TypeScript and TailwindCSS
 - ⚡ I have some experience for instance in Java, JavaScript, React, MySQL, AWS, Azure, Node.js, TailwindCSS, RestAPI, Git, JSON, Python, Next.js, HTML and CSS
 
 <div id="linkedin">
