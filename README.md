@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 📙 I am a Computer Science student at the University of Eastern Finland.
 - 👨‍💻 I am mostly interested in Web development: React, Node.js, JavaScript, TypeScript and TailwindCSS
-- ⚡ I have experience for instance in Java, JavaScript, React, MySQL, AWS, Azure, Node.js, TailwindCSS, Python, Next.js, HTML and CSS
+- ⚡ I have some experience for instance in Java, JavaScript, React, MySQL, AWS, Azure, Node.js, TailwindCSS, Python, Next.js, HTML and CSS
 
 <div id="linkedin">
   <a href="https://www.linkedin.com/in/danielkurhinen/">
