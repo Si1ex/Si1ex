@@ -29,10 +29,10 @@ Here are some ideas to get you started:
   </a>
  </div>
 <p align="center" style="font-size:10%;">
-  <a href="github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si1ex&theme=dark" alt="" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Si1ex&theme=dark&show_icons=true"/></a>
+  <a href="github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si1ex&theme=darcula" alt="" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Si1ex&theme=darcula&show_icons=true"/></a>
 </p>
 <p align="center">
-    <a href="https://streak-stats.demolab.com"><img src="https://streak-stats.demolab.com/?user=Si1ex&theme=dark" alt="" /></a>
+    <a href="https://streak-stats.demolab.com"><img src="https://streak-stats.demolab.com/?user=Si1ex&theme=darcula" alt="" /></a>
 </p>
 
