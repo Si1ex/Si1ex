@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   </a>
  </div>
 <p align="center" style="font-size: 10%;">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Si1ex&theme=darcula&show_icons=true" style="height: 150px;"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Si1ex&theme=darcula&show_icons=true" style="height: 200px;"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si1ex&theme=darcula" alt="" style="height: 150px; font-size: 10%;" /></a>
+  <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si1ex&theme=darcula"style="height: 200px;"/></a>
 </p>
