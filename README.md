@@ -22,15 +22,17 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/danielkurhinen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- </div>
- <div>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Si1ex" alt=""/>
-  </a>
- </div>
- <br>
-<p align="center" style="font-size: 10%;">
+</div>
+<div>
+ <a href="https://github.com/antonkomarev/github-profile-views-counter">
+   <img src="https://komarev.com/ghpvc/?username=Si1ex" alt=""/>
+ </a>
+</div>
+<br>
+<div>
+ <p align="center" style="font-size: 10%;">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Si1ex&theme=darcula&show_icons=true" style="height: 175px;"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github-readme-stats.vercel.app"><strong><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si1ex&theme=darcula&layout=compact" style="height: 175px;"/></strong></a>
 </p>
+</div>
