@@ -33,6 +33,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Si1ex&theme=vision-friendly-dark&show_icons=true"/></a>
 </p>
 <p align="center">
-    <a href="https://streak-stats.demolab.com"><img src="https://streak-stats.demolab.com/?user=Si1ex&theme=dark" alt="" /></a>
+    <a href="https://streak-stats.demolab.com"><img src="https://streak-stats.demolab.com/?user=Si1ex&theme=vision-friendly-dark" alt="" /></a>
 </p>
 
