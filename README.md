@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
  Fun fact: ...
--->
+
 - 📙 I am a Computer Science student at the University of Eastern Finland.
 - 👨‍💻 I am mostly interested in Web development: React, Node.js, Next.js, JavaScript, TypeScript and TailwindCSS.
 - ⚡ I have some experience in Java, JavaScript, React, MySQL, AWS, Azure, Node.js, TailwindCSS, RestAPI, Git, JSON, Python, Power BI, Next.js, HTML and CSS.
@@ -30,9 +30,9 @@ Here are some ideas to get you started:
  </div>
 <p align="center" style="font-size:10%;">
   <a href="github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si1ex&theme=tokyonight" alt="" /></a>
-  <a> </a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Si1ex&theme=vision-friendly-dark&show_icons=true"/></a>
 </p>
 <p align="center">
     <a href="https://streak-stats.demolab.com"><img src="https://streak-stats.demolab.com/?user=Si1ex&theme=dark" alt="" /></a>
 </p>
+-->
