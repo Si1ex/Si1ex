@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 <p align="center" style="font-size: 10%;">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Si1ex&theme=darcula&show_icons=true" style="height: 200px;"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github-readme-stats.vercel.app"><strong><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si1ex&theme=darcula" style="height: 200px;"/></strong></a>
+  <a href="https://github-readme-stats.vercel.app"><strong><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si1ex&theme=darcula&layout=compact" style="height: 200px;"/></strong></a>
 </p>
