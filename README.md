@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=Si1ex" alt=""/>
   </a>
  </div>
-<p align="center" style="font-size: 10%; display: flex; gap: 20px; justify-content: center; align-items: flex-start;">
+<p align="center" style="font-size: 6%">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api?username=Si1ex&theme=darcula&show_icons=true" />
   </a>
